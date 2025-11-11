@@ -7,15 +7,14 @@
 
 邮箱：zhangsonghnu@foxmail.com
 
-通讯地址：河南省郑州市科学大道100号计算机与人工智能学院
+个人网站：newcontinent.cn
 
-<br>
-<br>
+通讯地址：河南省郑州市科学大道100号计算机与人工智能学院
 
 ---
 
 ### **个人简介**
-张松，郑州大学计算机与人工智能学院人机物智能实验室博士后。主要研究方向包括数据中心网络流量调度、分布式机器学习训练网络加速、超大规模大模型训练网络加速等。近年来，在网络和系统的重要国际学术会议和期刊发表十余篇论文，其中包括USENIX NSDI、IEEE INFOCOM、IEEE/ACM Transactions on Networking、IEEE Transactions on Computers、IEEE Transactions on Cloud Computing等国际顶尖学术会议和期刊。
+张松，河南安阳人，郑州大学计算机与人工智能学院人机物智能实验室博士后。主要研究方向包括数据中心网络流量调度、分布式机器学习训练网络加速、超大规模大模型训练网络加速等。近年来，在网络和系统的重要国际学术会议和期刊发表十余篇论文，其中包括USENIX NSDI、IEEE INFOCOM、IEEE/ACM Transactions on Networking、IEEE Transactions on Computers、IEEE Transactions on Cloud Computing等国际顶尖学术会议和期刊。
 
 ### **工作及教育经历**
 *	2025.09-至今：郑州大学，计算机与人工智能学院，博士后（合作导师：杨天若教授）
