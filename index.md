@@ -1,4 +1,4 @@
-<img align="left" width="200" height="240" src="https://github.com/user-attachments/assets/ab62827b-d0ee-4fe4-a7e2-36593efa8dd7" />
+<img align="left" width="150" height="180" src="https://github.com/user-attachments/assets/ab62827b-d0ee-4fe4-a7e2-36593efa8dd7" />
 
 
 ### **张松**
@@ -34,11 +34,11 @@
 *	协助组织 图灵大会2021，世界智能大会2023，中国网络大会2023等大型会议的相关分论坛
   
 ### **代表论文**
-* **Song Zhang**, Wenxin Li, Yulong Li, Yuan Liu, Lide Suo, Sheng Chen, Yitao Hu, Laiping Zhao, and Keqiu Li. Lark: A Buffer-Aware Building Block for Programmable Packet Scheduling [C]. IEEE International Conference on Computer Communications (INFOCOM), 2025 (**CCF-A类会议**)
-*	**Song Zhang**, Lide Suo, Wenxin Li, Yuan Liu, Yulong Li, and Keqiu Li. Anole: Scheduling Flows for Fast Datacenter Networks With Packet Re-Prioritization [J]. IEEE Transactions on Cloud Computing (TCC), 2024, 12：550-562. （**JCR 1区/中科院2区**）
-* **Song Zhang**, Wenxin Li, Lide Suo, Yuan Liu, Yulong Li, Jein Kato, and Keqiu Li. BRT: Buffer Management for RDMA/TCP Mix-flows in Datacenter Networks [J]. IEEE Transactions on Network and Service Management (TNSM), 2024, 21：4146-4160. （**JCR 1区/中科院2区**）
-* Yulong Li, Wenxin Li, Yuan Liu, **Song Zhang**, Jiawen Shen, Jin Zhang, Keqiu Li [J]. Rethinking Selective In-network Aggregation for Multi-tenant Learning [J]. IEEE/ACM Transactions on Networking (TON), 2025, DOI: 10.1109/TON.2025.3617097. (**通讯，CCF-A类期刊**)
-* Zhongju Yan, Chenyu Zhang, Zhiyuan Zheng, Yiran Lv, Hao Xu, Xiulong Liu, **Song Zhang**, Sheng Chen, Xiaoyi Tao, Keqiu Li. AirBFT: An Efficient and Robust Consensus Mechanism for Large-scale Drone Collaboration [J]. IEEE Internet of Things Journal (IOTJ), 2025, DOI: 10.1109/JIOT.2025.3614991. (**通讯，JCR 1区/中科院2区**)
+* **Song Zhang**, Wenxin Li, Yulong Li, Yuan Liu, Lide Suo, Sheng Chen, Yitao Hu, Laiping Zhao, and Keqiu Li. Lark: A Buffer-Aware Building Block for Programmable Packet Scheduling [C]. IEEE International Conference on Computer Communications (INFOCOM), 2025 (<mark>**CCF-A类会议**<mark>)
+*	**Song Zhang**, Lide Suo, Wenxin Li, Yuan Liu, Yulong Li, and Keqiu Li. Anole: Scheduling Flows for Fast Datacenter Networks With Packet Re-Prioritization [J]. IEEE Transactions on Cloud Computing (TCC), 2024, 12：550-562. （<mark>**JCR 1区/中科院2区**<mark>）
+* **Song Zhang**, Wenxin Li, Lide Suo, Yuan Liu, Yulong Li, Jein Kato, and Keqiu Li. BRT: Buffer Management for RDMA/TCP Mix-flows in Datacenter Networks [J]. IEEE Transactions on Network and Service Management (TNSM), 2024, 21：4146-4160. （<mark>**JCR 1区/中科院2区**<mark>）
+* Yulong Li, Wenxin Li, Yuan Liu, **Song Zhang**, Jiawen Shen, Jin Zhang, Keqiu Li [J]. Rethinking Selective In-network Aggregation for Multi-tenant Learning [J]. IEEE/ACM Transactions on Networking (TON), 2025, DOI: 10.1109/TON.2025.3617097. (<mark>**通讯，CCF-A类期刊**<mark>)
+* Zhongju Yan, Chenyu Zhang, Zhiyuan Zheng, Yiran Lv, Hao Xu, Xiulong Liu, **Song Zhang**, Sheng Chen, Xiaoyi Tao, Keqiu Li. AirBFT: An Efficient and Robust Consensus Mechanism for Large-scale Drone Collaboration [J]. IEEE Internet of Things Journal (IOTJ), 2025, DOI: 10.1109/JIOT.2025.3614991. (<mark>**通讯，JCR 1区/中科院2区**<mark>)
 * Wenxin Li, Xin He, Yuan Liu, Keqiu Li, Kai Chen, Zhao Ge, Zewei Guan, Heng Qi, **Zhang Song**, and Guyue Liu. Flow scheduling with imprecise knowledge [C]. 21st USENIX Symposium on Networked Systems Design and Implementation (NSDI). USENIX, 2024: 95-111.（**CCF-A类会议**）
 * Yulong Li, Wenxin Li, Yuxuan Du, Yinan Yao, **Song Zhang**, Linxuan Zhong, and Keqiu Li. Flexible Job Scheduling with Spatial-Temporal Compatibility for In-Network Aggregation [J]. IEEE Transactions on Computers (TC), 2024 （**CCF-A类期刊**）
 * Wenxin Li, Sheng Chen, Keqiu Li, Heng Qi, Renhai Xu, and **Zhang Song**. Efficient online scheduling for coflow-aware machine learning clusters [J]. IEEE Transactions on Cloud Computing (TCC). 2020, 10:2564-2579.（**JCR 1区/中科院2区**）
@@ -64,11 +64,12 @@
   
 
 ### **荣誉获奖**
-*	IEEE Cybermatics 2025， best local chair， 2025
+*	IEEE Cybermatics 2025， Best Local Chair， 2025
 *	天津大学一等学业奖学金 2019, 2022
 * 湖南省优秀毕业研究生 2019
 * 湖南大学优秀毕业研究生 2019
 * 湖南大学优秀研究生干部 2018
 * 湖南大学优秀研究生 2017
 * 湖南大学一等学业奖学金 2016， 2017
+* 湖南大学单项奖学金 2012, 2013
 
