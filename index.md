@@ -3,13 +3,13 @@
 
 ### **张松**
 
-郑州大学计算机与人工智能学院 博士后
+· 郑州大学计算机与人工智能学院 博士后
 
-邮箱：zhangsonghnu@foxmail.com
+· 邮箱：zhangsonghnu@foxmail.com
 
-个人网站：newcontinent.cn
+· 个人网站：newcontinent.cn
 
-通讯地址：河南省郑州市科学大道100号计算机与人工智能学院
+· 通讯地址：河南省郑州市科学大道100号计算机与人工智能学院
 
 ---
 
